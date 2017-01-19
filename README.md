@@ -15,6 +15,12 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/14_first-position
 <35.翻转链表>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/35_reverse-linked-list/reverse-linked-list.java
 <br/>
+<40.用栈实现队列>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/40_implement-queue-by-two-stacks/implement-queue-by-two-stacks.java
+<br/>
+<41.最大子数组>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/41_maximum-subarray/maximum-subarray.java
+<br/>
 <111.爬楼梯>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/111_climbing-stairs/climbing-stairs.java
 <br/>
@@ -57,6 +63,34 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/365_count-1-in-bi
 <366.斐波那契数列>
 https://github.com/mr-ppp/LintCode/tree/master/codes_and_notes/366_fibonacci/fibonacci.java
 <br/>
+<372.在O（1）时间复杂度删除链表节点>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/372_delete-node-in-the-middle-of-singly-linked-list/delete-node-in-the-middle-of-singly-linked-list.java
+<br/>
+<375.克隆二叉树>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/375_clone-binary-tree/clone-binary-tree.java
+<br/>
+<423.有效的括号序列>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/423_valid-parentheses/valid-parentheses.java
+<br/>
+<452.删除链表的元素>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/452_remove-linked-list-elements/remove-linked-list-elements.java
+<br/>
+<457.经典二分查找>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/457_classical-binary-search/classical-binary-search.java
+<br/>
+<463.整数排序>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/463_sort-integers/sort-integers.java
+<br/>
+<469.等价二叉树>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/469_identical-binary-tree/identical-binary-tree.java
+<br/>
+<547.两数组的交>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/547_intersection-of-two-arrays/intersection-of-two-arrays.java
+<br/>
+<548.两数组的交II>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/548_intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java
+<br/>
+
 
 
 
