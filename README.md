@@ -6,6 +6,9 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/1_a-b-problem/a-b
 <6.合并排序数组>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/6_merge-two-sorted-arrays/merge-two-sorted-arrays.java
 <br/>
+<9.fizz-buzz问题>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/9_fizz-buzz/fizz-buzz.java
+<br/>
 <12.栈的最小值>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/12_min-stack/min-stack.java
 <br/>
@@ -59,6 +62,9 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/82_single-number/
 <br/>
 <93.平衡二叉树>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/93_balanced-binary-tree/balanced-binary-tree.java
+<br/>
+<97.二叉树最大深度>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/97_maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java
 <br/>
 <111.爬楼梯>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/111_climbing-stairs/climbing-stairs.java
