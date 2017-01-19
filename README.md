@@ -1,5 +1,8 @@
 # LintCode
 <problems that I have solved in LintCode>
+<1.A＋B问题>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/1_a-b-problem/a-b-problem.java
+<br/>
 <12.栈的最小值>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/12_min-stack/min-stack.java
 <br/>
@@ -8,6 +11,9 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/13_strstr/strstr.
 <br/>
 <14.二分查找>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/14_first-position-of-target/first-position-of-target.java
+<br/>
+<35.翻转链表>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/35_reverse-linked-list/reverse-linked-list.java
 <br/>
 <111.爬楼梯>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/111_climbing-stairs/climbing-stairs.java
@@ -42,3 +48,23 @@ https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/166_nth-to-last-n
 <174.删除链表中倒数第n个节点>
 https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/174_remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java
 <br/>
+<175.翻转二叉树>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/175_invert-binary-tree/invert-binary-tree.java
+<br/>
+<365.二进制中有多少个1>
+https://github.com/mr-ppp/LintCode/blob/master/codes_and_notes/365_count-1-in-binary/count-1-in-binary.java
+<br/>
+<366.斐波那契数列>
+https://github.com/mr-ppp/LintCode/tree/master/codes_and_notes/366_fibonacci/fibonacci.java
+<br/>
+
+
+
+
+
+
+
+
+
+
+
